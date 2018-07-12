@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: unaziogah
+Build-Jdk: 10.0.1
+Implementation-Title: EventTracker
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.jpogah
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/EventTracker
+Created-By: Maven Integration for Eclipse
+
